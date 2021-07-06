@@ -1,0 +1,19 @@
+{
+    "name": "gaaangi/template",
+    "description": "Template",
+    "type": "library",
+    "require": {
+        "php": ">=8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "phpstan/phpstan": "^0.12.88"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kazumasa Hirata",
+            "email": "p.m.byzance0817@gmail.com"
+        }
+    ]
+}
